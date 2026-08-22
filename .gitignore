@@ -1,0 +1,6 @@
+**/*.pdf
+*.pdf
+extracted-text/
+source-text/
+candidate-pdf/
+.DS_Store

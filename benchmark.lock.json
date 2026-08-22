@@ -1,0 +1,34 @@
+{
+  "schema_version": "subject-index-benchmark-lock-v1",
+  "benchmark_repository": "https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-1990",
+  "benchmark_commit": "2d306e0285fc0fbe14a74cb0cbb9f965de2af274",
+  "evaluation_id": "oxford-history-french-revolution-1990-indexerlabs-truncated",
+  "source": {
+    "title": "The Oxford History of the French Revolution",
+    "edition": "1990",
+    "variant": "IndexerLabs-distributed special PDF; front matter and endnotes absent",
+    "source_sha256": "5f89aa2592218983c594278bfd86cc1e4b74be1dd6dd8aac5c2610a48fa34047",
+    "document_page_span": [
+      1,
+      425
+    ],
+    "page_map_canonical_sha256": "452602deebdae19f8e35c589f2ff2a7a0b9fc955d268b14f760391b0043e9653",
+    "chunk_manifest_canonical_sha256": "5fc5450386114fdeb19838f54d3f1662c3d6dec81d4729c73f4f7ec0cb341a6f"
+  },
+  "policy": {
+    "profile_id": "subject-index-standard-policy-v1",
+    "rubric_version": "subject-index-rubric-v4",
+    "path": "source/evaluation-policy.v2.json",
+    "file_sha256": "228828bed734b23fce94fecbcc905dff68a6766f92e3a10da30ca3af3dbc296f",
+    "canonical_sha256": "1e31b084a606604e9b8691390c00900aa8224d0af0cb32ad87f60473281b0523"
+  },
+  "benchmark": {
+    "status": "not_frozen",
+    "path": null,
+    "sha256": null
+  },
+  "candidate": {
+    "label": "IndexerLabs",
+    "artifacts_status": "not_started"
+  }
+}
