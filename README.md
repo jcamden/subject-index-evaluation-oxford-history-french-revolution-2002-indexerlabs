@@ -6,7 +6,7 @@ Candidate-specific evaluation artifacts for the IndexerLabs subject index to Wil
 
 This evaluation is grounded in the separate candidate-independent benchmark repository:
 
-https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-1990
+https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-2002
 
 The exact benchmark commit and policy/benchmark hashes are recorded in `benchmark.lock.json`. Candidate work must not begin until the source benchmark is frozen.
 
