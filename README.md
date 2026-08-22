@@ -1,12 +1,12 @@
-# Subject Index Evaluation: IndexerLabs / The Oxford History of the French Revolution (1990)
+# Subject Index Evaluation: IndexerLabs / The Oxford History of the French Revolution (2002)
 
-Candidate-specific evaluation artifacts for the IndexerLabs subject index to William Doyle's *The Oxford History of the French Revolution*, 1990 edition.
+Candidate-specific evaluation artifacts for the IndexerLabs subject index to William Doyle's *The Oxford History of the French Revolution*, 2002 edition.
 
 ## Dependency
 
 This evaluation is grounded in the separate candidate-independent benchmark repository:
 
-https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-1990
+https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-2002
 
 The exact benchmark commit and policy/benchmark hashes are recorded in `benchmark.lock.json`. Candidate work must not begin until the source benchmark is frozen.
 
