@@ -1,7 +1,7 @@
 {
   "schema_version": "subject-index-benchmark-lock-v1",
   "benchmark_repository": "https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-2002",
-  "benchmark_commit": "5a8f4f9ad288677a95458f9f875b93b96d852180",
+  "benchmark_commit": "e675ba83a13cd761b5cf32573eaf3cf7fdf86d1b",
   "evaluation_id": "oxford-history-french-revolution-2002-indexerlabs-truncated",
   "source": {
     "title": "The Oxford History of the French Revolution",
