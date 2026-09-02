@@ -1,6 +1,6 @@
 {
   "schema_version": "subject-index-benchmark-lock-v1",
-  "benchmark_repository": "https://github.com/jcamden/subject-index-benchmark-oxford-history-french-revolution-2002",
+  "benchmark_repository": "https://github.com/publication-intelligence/ohfr-2002-esi-benchmark",
   "benchmark_commit": "98dbffd0ca171b5b7db76dbe1b2b5d5265ccacab",
   "evaluation_id": "oxford-history-french-revolution-2002-indexerlabs-truncated",
   "source": {
